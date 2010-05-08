@@ -12,5 +12,10 @@ ol {
 }
 
 .bigger-text {
-	font-size: 300%;
+	font-size: 270%;
+}
+
+.bigger-text li {
+	padding-top: 4px;
+	padding-bottom: 4px;
 }

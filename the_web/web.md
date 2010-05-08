@@ -27,3 +27,4 @@
 
 * The address comes after the protocol
 * Addresses are unique (like phone numbers)
+* Pages within an address are also unique
