@@ -21,7 +21,7 @@
 * On the web, the protocol is <b><em>HTTP</em></b>
 * <em><u>http</u></em>://www.scouting.org/
 
-!SLIDE bullets smaller top-image-slide center
+!SLIDE bullets smaller middle-image-slide center
 
 ![BSA](scouting.jpg)
 
