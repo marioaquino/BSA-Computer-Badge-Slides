@@ -20,6 +20,6 @@
 
 # What can you make with computer programs? #
 
-!SLIDE top-image-slide center
+!SLIDE middle-image-slide center
 
 ![Boeing Aircraft](boeing-aircraft.jpg)
