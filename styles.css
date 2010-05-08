@@ -5,3 +5,12 @@
 .middle-image-slide img {
 	margin-top: -60px;
 }
+
+ol {
+	padding-left: 8%;
+	list-style: decimal;
+}
+
+.bigger-text {
+	font-size: 300%;
+}

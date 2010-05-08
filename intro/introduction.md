@@ -7,11 +7,19 @@
 # Activities #
 
 * The Internet and Web Programming
-* <b>Exercise 1:</b> a <u>simple</u> web page
+* <b>Examples 1, 2, 4, 5</b> (simple web pages, HTML, forms)
 * Sinatra <span style="font-size:0.4em">(web software, not the singer)</span>
 
 !SLIDE bullets
 # Activities #
 
-* <b>Exercise 2:</b>
+* <b>Main Exercise</b>
 * Students fill out the merit badge worksheet
+
+!SLIDE
+
+# What can you make with computer programs? #
+
+!SLIDE top-image-slide center
+
+![Boeing Aircraft](boeing-aircraft.jpg)
