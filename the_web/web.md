@@ -10,9 +10,9 @@
 
 !SLIDE bullets incremental
 
-* <em>You</em> computer asks <em>Me</em> computer:
+* <em>Your</em> computer asks <em>Their</em> computer:
 * <b>"Gimme yur websyt, mkay"</b>
-* <em>Me</em> computer replies: 
+* <em>Their</em> computer replies: 
 * <b>"Lyk heer it iz, r whatevr"</b> or <b>"Huh?"</b>
 
 !SLIDE bullets incremental

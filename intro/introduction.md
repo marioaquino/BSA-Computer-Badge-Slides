@@ -7,13 +7,13 @@
 # Activities #
 
 * The Internet and Web Programming
-* <b>Examples 1, 2, 4, 5</b> (simple web pages, HTML, forms)
+* <strong>Examples</strong> (simple web pages, HTML, forms)
 * Sinatra <span style="font-size:0.4em">(web software, not the singer)</span>
 
 !SLIDE bullets
 # Activities #
 
-* <b>Main Exercise</b>
+* <strong>Main Exercise</strong>
 * Students fill out the merit badge worksheet
 
 !SLIDE
